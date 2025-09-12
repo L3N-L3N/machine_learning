@@ -1,6 +1,10 @@
 # Machine Learning (ML) 
-**Training and honing in the machine learning field with Kaggle datasets.**
+**Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
 
+
+**Image classification with Convolutional Neural Networks (CNN)**
+
+- [<ins>tesla0.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/tesla0.ipynb) : Trying in training a model to resolve light distinction issue between traffic light and the Sun.
 
 **<ins>Datasets used</ins> :** 
 
