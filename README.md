@@ -9,7 +9,7 @@
 
 #### **<ins>Classification with Classical ML model</ins> :**
 
-
+- <ins>genshin0</ins> : Trying in training a model in the classification of different features.
 
 
 
