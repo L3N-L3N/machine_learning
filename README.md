@@ -7,6 +7,13 @@
 
 - [<ins>tesla0.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/tesla0.ipynb) : Trying in training a model to resolve light distinction issue between traffic light and the Sun.
 
+#### **<ins>Classification with Classical ML model</ins> :**
+
+
+
+
+
+
 ### <ins>Regression</ins>
 
 **<ins>Datasets used</ins> :** 
