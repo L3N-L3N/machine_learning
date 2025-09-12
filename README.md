@@ -1,5 +1,5 @@
 # Machine Learning (ML) 
-**Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
+## **Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
 
 
 **<ins>Image classification with Convolutional Neural Networks (CNN)</ins> :**
