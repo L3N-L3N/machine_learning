@@ -1,4 +1,4 @@
-# Machine Learning (ML) 
+# Machine Learning (ML) - Deep Lerning (DL)
 ## **Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
 
 ### <ins>Classification</ins>
