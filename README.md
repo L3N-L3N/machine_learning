@@ -18,7 +18,7 @@
 
 ## **2. Project**
 
-### Making predictions models appliyed to real life situation : The increase of obesity across the world - [<ins>tesla0.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/tesla0.ipynb).
+### Making predictions models appliyed to real life situation : The increase of obesity across the world - [<ins>Obesity_Project.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/Obesity_Project.ipynb).
 
 
 
