@@ -1,5 +1,5 @@
 # Machine Learning (ML) - Deep Lerning (DL)
-## **1. Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
+## **I. Training and honing my skills in the Machine Learning (ML) field with Kaggle datasets.**
 
 ### <ins>Classification</ins>
 
@@ -16,7 +16,7 @@
 
 ### <ins>Regression</ins>
 
-## **2. Project**
+## **II. Project**
 
 ### Making predictions models appliyed to real life situation : The increase of obesity across the world - [<ins>Obesity_Project.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/Obesity_Project.ipynb).
 
