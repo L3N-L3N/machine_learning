@@ -24,5 +24,9 @@
 
 ##  **<ins>Every datasets used</ins> :** 
 
+### Training part :
 - [<ins>tesla0.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/tesla0.ipynb) - Antonio Schirò : *Tesla recognition: sun or traffic light?*, URL : https://www.kaggle.com/datasets/antonioschiro/tesla-recognition-sun-or-traffic-light
 - <ins>genshin0</ins> - Jeremiah Mendoza : *Genshin Impact Character List Ver. 5.2*, URL : http://kaggle.com/datasets/jeremiahmendoza/genshin-impact-character-list-ver-5-2
+
+### Project part :
+-  [<ins>Obesity_Project.ipynb</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/Obesity_Project.ipynb) - AbdElRahman16 : *Obesity Levels*, URL : https://www.kaggle.com/datasets/abdelrahman16/obesity-dataset
