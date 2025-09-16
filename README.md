@@ -9,8 +9,8 @@
 
 #### **<ins>Classification with Classical ML model</ins> :**
 
-- **UNFINISHED YET** <ins>genshin0</ins> : Trying in training a model in the classification of different features.
-
+- **UNFINISHED YET** [<ins>genshin0</ins>](https://github.com/L3N-L3N/machine_learning/blob/main/genshin01.ipynb
+) : Trying in training a model in the classification of different features.
 
 
 
